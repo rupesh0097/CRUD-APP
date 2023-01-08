@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "name": "Choki Dorji",
+      "username": "Choki Dorji Maskot",
+      "email": "choki@gmail.com",
+      "phone": "349579347",
+      "id": 1
+    },
+    {
+      "name": "Prince ",
+      "username": "Prince Karki",
+      "email": "rrrupeshrupesh333@gmail.com",
+      "phone": "48738573495",
+      "id": 3
+    },
+    {
+      "name": "Yared",
+      "username": "Yared Stupid ",
+      "email": "yareda25@gmail.com",
+      "phone": "495793475",
+      "id": 4
+    },
+    {
+      "name": "Vice ",
+      "username": "Vince Alec ",
+      "email": "vince@gmail.com",
+      "phone": "9348759347",
+      "id": 7
+    },
+    {
+      "name": "Jayson ",
+      "username": "Jayson Lozada",
+      "email": "jayson@gmail.com ",
+      "phone": "392479304",
+      "id": 8
+    },
+    {
+      "name": "Milan",
+      "username": "Milan Birkata",
+      "email": "milanbirkata@gmail.com",
+      "phone": "93493745",
+      "id": 9
+    },
+    {
+      "name": "Choki ",
+      "username": "Choki Dorji",
+      "email": "choki@gmail.com",
+      "phone": "98734648463",
+      "id": 10
+    },
+    {
+      "name": "Ritesh",
+      "username": "Rites yadav",
+      "email": "riteshyadav@gmail.com",
+      "phone": "8934873975",
+      "id": 11
+    },
+    {
+      "name": "Rupesh ",
+      "username": "Rupesh Yadav",
+      "email": "ryadav@gmail.com",
+      "phone": "947597474",
+      "id": 12
+    }
+  ]
+}
